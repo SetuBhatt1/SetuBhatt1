@@ -6,7 +6,7 @@ Crafting Code with Creativity: Exploring the Boundaries of Technology and Imagin
  <img src="https://komarev.com/ghpvc/?username=setubhatt1&label=Profile%20views&color=0e75b6&style=flat" alt="setubhatt1" loading="lazy" />
 </p>
 
-<p align="center">📫 How to reach me <a href="mailto:bansetu1@gmail.com" style="color: #333;">bansetu1@gmail.com</a></p>
+<p>📫 How to reach me <a href="mailto:bansetu1@gmail.com" style="color: #333;">bansetu1@gmail.com</a></p>
 
 ## Connect with me:
 

@@ -10,7 +10,7 @@ Crafting Code with Creativity: Exploring the Boundaries of Technology and Imagin
 
 ## Connect with me:
 
-<p align="center">
+<p align="left">
  <a href="https://www.linkedin.com/in/setubhatt08/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
  </a>

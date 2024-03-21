@@ -68,10 +68,6 @@ Crafting Code with Creativity: Exploring the Boundaries of Technology and Imagin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
 </p>
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" height="40" />
- <!-- Repeat for other skills -->
-</p>
-
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=setubhatt1&" alt="Streak Stats" loading="lazy" />
 </p>

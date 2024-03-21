@@ -1,17 +1,24 @@
-<h1 align="center">Hi 👋, I'm Setu Bhatt</h1>
-<h3 align="center">Crafting Code with Creativity: Exploring the Boundaries of Technology and Imagination</h3>
+# Hi 👋, I'm Setu Bhatt
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=setubhatt1&label=Profile%20views&color=0e75b6&style=flat" alt="setubhatt1" /> </p>
+Crafting Code with Creativity: Exploring the Boundaries of Technology and Imagination
 
-- 📫 How to reach me **bansetu1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/setubhatt08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="setu bhatt" height="30" width="40" /></a>
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=setubhatt1&label=Profile%20views&color=0e75b6&style=flat" alt="setubhatt1" loading="lazy" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
+<p align="center">📫 How to reach me <a href="mailto:bansetu1@gmail.com" style="color: #333;">bansetu1@gmail.com</a></p>
+
+## Connect with me:
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/setubhatt08/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+ </a>
+</p>
+
+## Languages and Tools:
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
@@ -59,7 +66,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-</div>
+</p>
 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" height="40" />
+ <!-- Repeat for other skills -->
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=setubhatt1&" alt="setubhatt1" /></p>
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=setubhatt1&" alt="Streak Stats" loading="lazy" />
+</p>
